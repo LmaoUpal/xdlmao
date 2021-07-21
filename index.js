@@ -1,5 +1,3 @@
-
-
 const clientBuilder = require('./config');
 const clientBuilder = require('./config');
 
@@ -35,5 +33,3 @@ client.doLogin();
 clientArray.push(client);
 }
 console.log('Running ' + configsArray.length + ' bots.');
-
-
